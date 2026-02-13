@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Shalini!
 
-<!--
-**shalini-kdi/shalini-kdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a software engineering student at **Kongsberg Digital**, currently working on **Software Engineering 2 (SWE 2)** course projects.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- 🌱 Currently learning advanced software engineering concepts and practices
+- 💻 Working with modern software development tools and methodologies
+- 🚀 Building real-world applications as part of SWE 2 at Kongsberg Digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+Feel free to explore my repositories and connect with me on this learning journey!
+
+---
+*This profile is part of my Software Engineering 2 coursework at Kongsberg Digital*

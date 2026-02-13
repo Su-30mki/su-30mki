@@ -3,13 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00bcd4&height=220&section=header&text=Hi%20there👋&fontSize=45&fontAlignY=38&desc=Ideas%20turn%20into%20commits%20here&descAlignY=58&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Working+on+meaningful+problems;Learning+continuously+%F0%9F%8C%B1;Systems+%7C+Design+Thinking+%7C+Problem+Solving;Clear+code+is+clear+storytelling" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/shalini-kdi?style=for-the-badge&logo=github&color=6a5acd">
-  <img alt="Followers" src="https://img.shields.io/github/followers/shalini-kdi?style=for-the-badge&logo=github&color=00bcd4">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=shalini-kdi&style=for-the-badge&color=ff69b4">
 </p>
 

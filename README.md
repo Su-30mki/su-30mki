@@ -1,6 +1,6 @@
 <!-- Header / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00bcd4&height=220&section=header&text=Hi%20there,%20I%27m%20Shalini%20👋&fontSize=45&fontAlignY=38&desc=Ideas%20turn%20into%20commits%20here&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00bcd4&height=220&section=header&text=Hi%20there👋&fontSize=45&fontAlignY=38&desc=Ideas%20turn%20into%20commits%20here&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
